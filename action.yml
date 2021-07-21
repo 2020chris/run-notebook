@@ -7,7 +7,7 @@ inputs:
     default: ''
   params:
     description: 'Path to parameters file with extension, contents should be json'
-    default: '{}'
+    default: ''
   isReport:
     description: 'If True, will hide inputs in notebook'
     default: False
